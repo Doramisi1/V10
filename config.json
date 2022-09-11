@@ -1,17 +1,17 @@
 {
-    "ownerNumber": "6283834558105@s.whatsapp.net", 
-    "ownerName": "Lexxy Official", 
-    "botName": "Neobot",
+    "ownerNumber": "6281368176386@s.whatsapp.net", 
+    "ownerName": "ega-Official", 
+    "botName": "ghost-👻-bot",
     "footer": "© BOTMD | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
     
-    "limitCount": 100,
-    "limitGame": 35,
+    "limitCount": 1000,
+    "limitGame": 1000,
     "gamewaktu": 90,
     "sticker": {
-        "packname": "© Store",
-        "author": "Lexxy Official"
+        "packname": "© ghost",
+        "author": "ghost-👻-Official"
     }
 }
